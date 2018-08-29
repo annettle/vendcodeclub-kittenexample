@@ -1,0 +1,25 @@
+body {
+  background-color: #DDDDFF;
+}
+
+* {
+  color: white;
+}
+
+a {
+  color: #999999;
+}
+
+h1 {
+  background-color: #333333;
+}
+
+h2 {
+  width: 500px;
+  background-color: #999999;
+}
+
+.kitten-row {
+  margin-bottom: 80px;
+  background-color: #FFFFFF;
+}
